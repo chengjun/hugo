@@ -15,8 +15,6 @@ weight = 40
 
 +++
 
-<img src="/img/torch.gif" width = "300">
-
 I am teaching the following courses:
 
 - Undergraduate Course [Computational Social Science](https://github.com/SocratesAcademy/css/) (2020-Now)
