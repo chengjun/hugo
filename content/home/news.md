@@ -17,6 +17,7 @@ weight = 21
 I am writing a book titled **Jumping Over The Network Threshold** (In Chinese 《跨越网络的门槛：社交媒体上的信息扩散》).
 
 1. I will give a talk titled *Information diffusion, attention flow, and computational narratives: Reflections on the logic of computational social science* (信息扩散、注意力流动和计算叙事：反思计算社会科学的逻辑) on the Annual Conference of CCR, July 17-18, 2021, Xi'an.
+1. I will to attend the Swarma 'Sansi' Summer Camp, Maoshan, Jurong, July 2-6, 2021. 
 1. I attended the 2021 Summer Institute in Computational Social Science ([SICSS2021-Beijing](https://sicss.io/2021/beijing/people)) in Beijing during June 14-25, 2021.
 1. I am organizing a [Douban group](https://www.douban.com/group/webmining/) to discuss on the topic of computational communication research.
 1. My ebook [**Elements of Computational Communication**](https://chengjunwang.com/mybook/) (In Chinese 《计算传播基础讲义》）is available online!
