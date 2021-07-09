@@ -60,6 +60,7 @@ Cheng-Jun Wang is currently an associate professor in the School of Journalism a
 1. **Wang C.J.**, Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
 1. Chandra Y.*, Jiang, C.L., **Wang C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE, 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
 1. **Wang C.J.** *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
+1. 苟泽鹏,董 悦,闫一帆, **王成军** (2021) [数据科学的浪潮：计算社会科学研究综述](https://dx.doi.org/10.19946/j.issn.1006-2815.2021.02.002). 科学经济社会. 39(163):1-16. 
 1. 王成军 * (2021) 寻找公众注意力爆发的起源：以YouTube视频扩散为例. 东岳论丛. 320（02):142-153.
 1. 王成军 *（2021）[反思计算社会科学的逻辑：基于拉图尔的“计算中心”概念](http://dx.doi.org/10.15937/j.cnki.issn1001-8263.2021.04.014). 南京社会科学. 402(04):122-131.
 1. 卢功靖, 卢林艳, 李媛媛, **王成军** *（2021）基于议题类型的临近预测：使用社交媒体预测新冠确诊人数. 中国网络传播研究.
