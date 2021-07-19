@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-I am writing a book titled **Jumping Over The Network Threshold** (In Chinese 《跨越网络的门槛：社交媒体上的信息扩散》).
+I am writing a book titled **Jumping Over The Network Threshold** (In Chinese 《跨越网络的门槛：社交媒体上的信息扩散》). Please check this [Github repository](https://github.com/chengjun/thresholdbook) to see more information.
 
 1. I was invited to give a talk titled *Information diffusion, attention flow, and computational narratives: Reflections on the logic of computational social science* (信息扩散、注意力流动和计算叙事：反思计算社会科学的逻辑) on the Annual Conference of CCR, July 17-18, 2021, Xi'an. The **slides** can be found in the [Github repository](https://github.com/chengjun/thresholdbook).
 1. I attended the Swarma 'Sansi' Summer Camp, Maoshan, Jurong, July 2-6, 2021.
